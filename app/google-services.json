@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "235137903340",
+    "firebase_url": "https://live-tracking-2a7e8.firebaseio.com",
+    "project_id": "live-tracking-2a7e8",
+    "storage_bucket": "live-tracking-2a7e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235137903340:android:7dc5077695c798e5",
+        "android_client_info": {
+          "package_name": "com.example.usmansh.livemobtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235137903340-u816vscvma53p4ura1gi4qi2f17v5k81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usmansh.livemobtracking",
+            "certificate_hash": "dcc0fb75b6a7d9643cd060018831029f888e8cf3"
+          }
+        },
+        {
+          "client_id": "235137903340-946utorketckvi6hjp91l22m8cgttror.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "235137903340-946utorketckvi6hjp91l22m8cgttror.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZBqidLGQzFwACoYDyBZzheE6n9RtwrcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235137903340-946utorketckvi6hjp91l22m8cgttror.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
